@@ -9,6 +9,11 @@ class Car {
     }
 }
 
+// A class is a blueprint or template used to create objects.
+// It defines:
+// What data an object will have (variables)
+// What actions it can perform (methods)
+
 public class class_obj {
 
     public static void main(String[] args) {
@@ -22,3 +27,9 @@ public class class_obj {
     }
 
 }
+// 🧍 Object (in Java)
+// An object is a real instance of a class.
+// It:
+// Uses the class blueprint
+// Holds actual values
+// Can call class methods
