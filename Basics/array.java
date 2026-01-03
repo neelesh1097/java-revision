@@ -22,5 +22,7 @@ public class array {
         for (int element : k) {
             System.out.println(element);
         }
+
+        scn.close();
     }
 }
